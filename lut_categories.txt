@@ -1,0 +1,110 @@
+DAVINCI RESOLVE LUT PACK — FULL CATEGORY LIST
+===============================================
+
+1. FILM EMULATION (45 LUTs)
+   Kodak Vision3 250D
+   Kodak Vision3 500T
+   Fujifilm Eterna 500
+   Fujifilm Reala 500D
+   Cinestill 800T (night/tungsten)
+   Cinestill 50D (daylight)
+   Agfa RSX II
+   Kodak Portra 400
+   Fuji Velvia 100F
+   Ilford Delta (B&W series — 8 LUTs)
+   ... and 35 more
+
+2. TEAL & ORANGE (30 LUTs)
+   Blockbuster Teal-Orange v1–v5
+   Subtle Grade T&O (5 variants)
+   Cinematic Orange Push
+   Deep Teal Shadows
+   ... and 20 more
+
+3. GOLDEN HOUR (28 LUTs)
+   Warm Sunset Standard
+   Magic Hour Fade
+   Bronze Skin Warm
+   Summer Afternoon
+   ... and 24 more
+
+4. DRONE / AERIAL (22 LUTs)
+   DJI D-Log to Rec709 (4 variants)
+   DJI HLG Correction
+   Aerial Teal Grade
+   Sky Pop
+   ... and 16 more
+
+5. PORTRAIT / SKIN TONE (35 LUTs)
+   Clean Skin Neutral
+   Warm Matte Portrait
+   Fashion Clean
+   Beauty Highlight
+   ... and 31 more
+
+6. URBAN / CITY (25 LUTs)
+   Neon Night City
+   Blue Steel Urban
+   Overcast City
+   Concrete Grey
+   ... and 21 more
+
+7. NATURE / FOREST (22 LUTs)
+   Forest Green Pop
+   Natural Sunrise
+   Earth Tones
+   ... and 19 more
+
+8. SUMMER VIVID (20 LUTs)
+   Ibiza Punchy
+   Beach Day Bright
+   ... and 18 more
+
+9. DARK / MOODY (32 LUTs)
+   Deep Shadow Moody
+   Neon Noir
+   Dark Desaturated
+   ... and 29 more
+
+10. VINTAGE / RETRO (38 LUTs)
+    70s Kodachrome
+    80s VHS
+    90s Fade
+    ... and 35 more
+
+11. HORROR (18 LUTs)
+    Cold Blue Horror
+    Sickly Green
+    Bleak Desaturate
+    ... and 15 more
+
+12. DOCUMENTARY (25 LUTs)
+    Broadcast Neutral
+    Journalistic Flat
+    ... and 23 more
+
+13. LOG CORRECTION (30 LUTs)
+    Sony S-Log2 to Rec709
+    Sony S-Log3 to Rec709
+    Panasonic V-Log to Rec709
+    ARRI LogC to Rec709
+    Blackmagic BRAW to Rec709
+    DJI D-Log to Rec709
+    Canon Log to Rec709
+    Nikon N-Log to Rec709
+    ... and 22 more
+
+14. BLACK & WHITE (18 LUTs)
+    High Contrast B&W
+    Soft Matte Mono
+    Agfa Ortho B&W
+    ... and 15 more
+
+15. MUSIC VIDEO (32 LUTs)
+    High Contrast Punch
+    Bleach Bypass
+    Color Splash
+    ... and 29 more
+
+TOTAL: 420 LUT FILES (.cube format)
+All files tested in DaVinci Resolve 18+ and Premiere Pro 2024+

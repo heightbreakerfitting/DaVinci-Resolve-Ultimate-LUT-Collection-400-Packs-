@@ -1,0 +1,12 @@
+<svg width="240" height="64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dvb" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#C9A96E"/><stop offset="100%" stop-color="#7EC8E3"/></linearGradient>
+    <filter id="dvs"><feDropShadow dx="0" dy="2" stdDeviation="5" flood-color="#C9A96E" flood-opacity="0.35"/></filter>
+  </defs>
+  <a href="https://zeptohornbilltassel.github.io/nightcore/" target="_blank">
+    <rect width="240" height="64" rx="10" fill="url(#dvb)" filter="url(#dvs)"/>
+    <rect x="2" y="2" width="236" height="60" rx="9" fill="white" opacity="0.08"/>
+    <text x="120" y="24" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="11" fill="white" letter-spacing="2" opacity="0.85">⬇  DOWNLOAD FREE</text>
+    <text x="120" y="48" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="white">400+ Cinematic LUTs</text>
+  </a>
+</svg>
